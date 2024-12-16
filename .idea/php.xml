@@ -1,5 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/diia-api-sdk/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/diia-api-sdk/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/diia-api-sdk/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/diia-api-sdk/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/diia-api-sdk/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/diia-api-sdk/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/diia-api-sdk/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/diia-api-sdk/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/diia-api-sdk/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/diia-api-sdk/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/diia-api-sdk/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/diia-api-sdk/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/diia-api-sdk/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/diia-api-sdk/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/diia-api-sdk/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/diia-api-sdk/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/diia-api-sdk/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/diia-api-sdk/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/diia-api-sdk/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/diia-api-sdk/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/diia-api-sdk/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/diia-api-sdk/vendor/composer" />
+      <path value="$PROJECT_DIR$/diia-api-sdk/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/diia-api-sdk/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/diia-api-sdk/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/diia-api-sdk/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/diia-api-sdk/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/diia-api-sdk/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/diia-api-sdk/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/diia-api-sdk/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/diia-api-sdk/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/diia-api-sdk/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/diia-api-sdk/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/diia-api-sdk/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/diia-api-sdk/vendor/psr/http-message" />
+    </include_path>
+  </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="8.0">
     <option name="suggestChangeDefaultLanguageLevel" value="false" />
   </component>
